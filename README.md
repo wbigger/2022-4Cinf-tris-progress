@@ -20,13 +20,22 @@ Fanelli, Santa (P.O.), Schiavo, Vignati
 Montefusco (P.O.), Malvone, Mauti, Sabatini
 [Link](https://github.com/thekiddcixy/thekiddcixy/tree/main)
 
-# Sprint success rate
+# Sprint stories status
+
+Sprint stories:
+- Sprint #1: persona
+- Sprint #2: user journeys & user stories
+- Sprint #3: moodboard
+- Sprint #4: visual prototype
+- Sprint #5: GitHub repository
 
 
 |  | Sprint #1  | Sprint #2 | Sprint #3 | Sprint #4 | Sprint #5 |Sprint #6 |Sprint #7 |
 |--|--|--|--|--|--|--|--|
-|Gruppo A||||||||
+|Gruppo A|100%|100%|100%|100%|0%|||
 |Gruppo B||||||||
 |Gruppo C||||||||
 |Gruppo D||||||||
 |Gruppo E||||||||
+
+Attenzione: questo in realtà non è un uso corretto degli sprint, perché il valore non dovrebbe essere modificato successivamente al giorno di review. Quindi più che una "sprint velocity" è semplicemente uno stato di completamento delle storie che erano state assegnate per un certo sprint.
