@@ -7,15 +7,18 @@ Balistreri, Bramucci, Renzi, Visalli (P.O.)
 
 # Gruppo B
 Biferini, Satti Sara (P.O.), Tambosco
+[Link](https://github.com/SaraSatti/Tic-tac-toe-4Cinf)
 
 # Gruppo C
 Ciancotti ,Curella (P.O.), De Santis Elena, Scotti Leonardo
 
 # Gruppo D
 Fanelli, Santa (P.O.), Schiavo, Vignati
+[Link](https://github.com/eradrian/Tictactoe)
 
 # Gruppo E
 Montefusco (P.O.), Malvone, Mauti, Sabatini
+[Link](https://github.com/thekiddcixy/thekiddcixy/tree/main)
 
 # Sprint success rate
 
