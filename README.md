@@ -11,14 +11,15 @@ Biferini, Satti Sara (P.O.), Tambosco
 
 # Gruppo C
 Ciancotti ,Curella (P.O.), De Santis Elena, Scotti Leonardo
+[Link](https://github.com/Fedele0/tris)
 
 # Gruppo D
 Fanelli, Santa (P.O.), Schiavo, Vignati
-[Link](https://github.com/eradrian/Tictactoe)
+[Link](https://github.com/eradrian/TicTacToe-Gruppo-D)
 
 # Gruppo E
 Montefusco (P.O.), Malvone, Mauti, Sabatini
-[Link](https://github.com/thekiddcixy/thekiddcixy/tree/main)
+[Link](https://github.com/thekiddcixy/Sprint_5)
 
 # Sprint status
 
@@ -32,10 +33,10 @@ Sprint topics:
 
 |  | Sprint #1  | Sprint #2 | Sprint #3 | Sprint #4 | Sprint #5 |Sprint #6 |Sprint #7 |
 |--|--|--|--|--|--|--|--|
-|Gruppo A|100%|100%|100%|100%|  0%|||
-|Gruppo B|100%|100%|100%|  0%|100%|||
-|Gruppo C|100%|100%|100%|  0%|  0%|||
-|Gruppo D|100%|100%|  0%|100%|  0%|||
-|Gruppo E|100%|100%|100%|  0%|  0%|||
+|Gruppo A|100%|100%|100%|100%|  100%|||
+|Gruppo B|100%|100%|100%|  0%|  100%|||
+|Gruppo C|100%|100%|100%|  0%|  100%|||
+|Gruppo D|100%|100%|  0%|100%|  100%|||
+|Gruppo E|100%|100%|100%|  0%|  100%|||
 
 Attenzione: questo in realtà non è un uso corretto degli sprint, perché il valore non dovrebbe essere modificato successivamente al giorno di review. Quindi più che una "sprint velocity" è semplicemente uno stato di completamento delle storie che erano state assegnate per un certo sprint.
