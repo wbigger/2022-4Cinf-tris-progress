@@ -1,5 +1,15 @@
 .grid-container {
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: auto auto auto;
+    grid-gap: 2px;
+    background-color: black;
+    width: 35%;
+    margin: 15% auto 0 auto
 }
 
+.grid-item {
+    aspect-ratio: 1;
+    background-color: white;
+    text-align: center;
+}
+ 
