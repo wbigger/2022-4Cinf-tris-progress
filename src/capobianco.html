@@ -10,15 +10,23 @@
 <body>
     Tris
     <div class="grid-container">
+        <div class="grid-item" onclick="play(0,0)"><span></span></div>
+        <div class="grid-item"  onclick="play(0,1)"><span></span></div>
+        <div class="grid-item"  onclick="play(0,2)"><span></span></div>
         <div class="grid-item"><span></span></div>
         <div class="grid-item"><span></span></div>
-        <div class="grid-item"><span></span></div>
-        <div class="grid-item"><span></span></div>
-        <div class="grid-item"><span>X</span></div>
+        <div class="grid-item">
+            <span class="cross">
+                <div class="cross-line cross-line-a"></div>
+                <div class="cross-line cross-line-b"></div>
+            </span>
+        </div>
         <div class="grid-item"><span></span></div>
         <div class="grid-item"><span></span></div>
         <div class="grid-item"><span></span></div>
         <div class="grid-item"><span></span></div>
       </div>
+
+    <script src="script.js"></script>
 </body>
 </html>
