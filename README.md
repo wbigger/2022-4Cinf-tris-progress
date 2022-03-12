@@ -34,7 +34,7 @@ Sprint topics:
 - Sprint #4: visual prototype
 - Sprint #5: GitHub repository
 - Sprint #6: Pagina tris statica
-- Sprint #6: Aggiungere JavaScript
+- Sprint #7: Aggiungere JavaScript
 
 
 |  | Sprint #1  | Sprint #2 | Sprint #3 | Sprint #4 | Sprint #5 |Sprint #6 |Sprint #7 |
