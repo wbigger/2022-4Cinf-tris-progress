@@ -1,5 +1,9 @@
 # 2022-4Cinf-tris-progress
-Progressi dei gruppi del 4Cinf , as 2021/2022
+Progressi dei gruppi del 4Cinf, as 2021/2022
+
+L'obiettivo di questo progetto è creare un gioco del tris web, con back-end in python (Flask). Per quest'anno il gioco potrà essere solo single player, l'anno prossimo potremo implementare il multi-player.
+
+I progetti usano una versione adattata alla scuola della metodologia Agile/Scrum.
 
 # Gruppo A
 Balistreri, Bramucci, Renzi, Visalli (P.O.)
@@ -30,7 +34,7 @@ Sprint topics:
 - Sprint #4: visual prototype
 - Sprint #5: GitHub repository
 - Sprint #6: Pagina tris statica
-- Sprint #6: Aggiungere JavaScript
+- Sprint #7: Aggiungere JavaScript
 
 
 |  | Sprint #1  | Sprint #2 | Sprint #3 | Sprint #4 | Sprint #5 |Sprint #6 |Sprint #7 |
