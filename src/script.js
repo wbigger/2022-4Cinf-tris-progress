@@ -21,3 +21,4 @@ let play = function (r, c) {
     }
 }
 
+// VEDI /Users/claudio/Documents/notes/prjs/scuola-classi/4Cinf/tris

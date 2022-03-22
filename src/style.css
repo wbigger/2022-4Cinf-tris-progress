@@ -12,6 +12,7 @@
     aspect-ratio: 1;
     background-color: white;
     position: relative;
+    overflow: hidden;
 }
 
 .grid-item > span {
@@ -46,5 +47,5 @@
 }
 
 .cross-line-b {
-    transform: rotate(-45deg);
+    transform: translateY(-100%) rotate(-45deg);
 }
