@@ -30,7 +30,7 @@ let updateBoard = function(board) {
                 tile.innerHTML = '<span class="circle"></span>';
             } else if (symbol === 'X') {
                 let tile = document.getElementById(`item-${r}-${c}`);
-                tile.innerHTML = '<span class="cross"><div class="cross-line cross-line-a"></div><div class="cross-line cross-line-b"></div></span>"';
+                tile.innerHTML = '<span class="cross"><div class="cross-line cross-line-a"></div><div class="cross-line cross-line-b"></div></span>';
             }
         }
     }
